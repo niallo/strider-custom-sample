@@ -1,17 +1,17 @@
 {
-  "author": "Niall O'Higgins <niallo@beyondfog.com> (http://beyondfog.com)",
-  "name": "strider-sauce-sample",
-  "version": "0.0.0",
-  "homepage": "https://github.com/niallo/strider-sauce-sample",
+  "author": "Niall O'Higgins <niallo@frozenridge.co> (http://frozenridge.co)",
+  "name": "strider-custom-sample",
+  "version": "0.0.1",
+  "homepage": "https://github.com/niallo/strider-custom-sample",
   "repository": {
     "type": "git",
-    "url": "git://github.com/niallo/strider-sauce-sample.git"
+    "url": "git://github.com/niallo/strider-custom-sample.git"
   },
   "dependencies": {
     "tako": "~0.3.0"
   },
   "devDependencies": {
-    "wd": "~0.1.0",
+    "wd": "~0.0.31",
     "mocha": "~1.5.0"
   },
   "optionalDependencies": {},
